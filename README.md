@@ -3,7 +3,7 @@ GH Freebrary is a general purpose class library for modern versions of Delphi. T
 
 Compare the following two code blocks (the first one borrowed from stackoverflow.com).
 
-(1) One method to get a hypothetical <i>DisplayLabel</i> RTTI attribute of a given class, NOT using GH Freebrary:
+(1) A method to get a hypothetical <i>DisplayLabel</i> RTTI attribute of a given class, NOT using GH Freebrary:
 <pre><code>implementation
 
 uses
